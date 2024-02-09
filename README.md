@@ -65,14 +65,11 @@ The File Encryption System is a Java application designed to provide users with 
 
 **Contributors:**
 
-- [Your Name]
-- [Contributor Name]
+-Gautam Raj
 
 ---
 
-**License:**
 
-This project is licensed under the [License Name]. See the LICENSE file for details.
 
 ---
 
